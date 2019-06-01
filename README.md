@@ -22,3 +22,4 @@ Launches the test runner in the interactive watch mode.<br>
 
 Builds the app for production to the `build` folder.<br>
 
+![screenshot](screenshot.png)
